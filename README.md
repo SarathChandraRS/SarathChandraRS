@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sreenivasa Sarath Chandra Ravi
 - 👀 I’m interested in coding and want to contribute to open source community
-- � I’m currently working at Wells Fargo
+- � I’m currently working at Dell EMC
 - 💞️ I’m looking to collaborate on any open source projects of Java and GoLang
 - 📫 You can reach me at sreenivasa483@gmail.com
 
